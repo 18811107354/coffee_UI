@@ -1,0 +1,8 @@
+
+
+url: "http://127.0.0.1:4723/wd/hub"
+platformName: Android
+platformVersion: 11
+appPackage: com.cotticoffee.ros
+appActivity: tech.yummy.activity.MainActivity
+devicesName: f2040f7761217168
