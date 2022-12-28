@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*-
 from get_yaml_all_data import get_yaml
 
-path = "\\coffee_ros_desired_caps.yaml"
+path = "\\coffee_app_desired_caps.yaml"
 
 
 def get_platform_name():
